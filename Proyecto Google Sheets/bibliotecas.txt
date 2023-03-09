@@ -1,0 +1,18 @@
+Comando: pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+Para instalar bibliotecas:
+google-auth				herramientas para autenticación y autorización para las APIs de Google
+google-auth-oauthlib		herramientas adicionales para trabajar con el protocolo OAuth2 de forma más fácil en Python.
+google-auth-httplib2		proporciona herramientas para manejar la autenticación y autorización de solicitudes HTTP utilizando Google OAuth2.
+google-api-python-client	Esta librería proporciona una forma fácil de interactuar con las APIs de Google utilizando Python
+
+pip install gspread
+Gspread: para leer, escribir y modificar hojas de cálculo de Google Sheets utilizando la API de Google Sheets.
+	Autenticación y autorización
+	Acceso a hojas de cálculo
+	Creación y eliminación de hojas de cálculo
+	Gestión de formatos
+
+Link GoogleSheet:
+https://docs.google.com/spreadsheets/d/1LWltY6gJ9_320Bh-JUoB6I2i55V8JgBREd3qmfCPyPs/edit#gid=0
+
+
